@@ -1,8 +1,11 @@
 {
-  "name": "scoring",
+  "name": "nestjs-module-score",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "nestjs module score example project",
+  "author": {
+    "name": "Kerrick Chan",
+    "email": "me@kerrick.dev"
+  },
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
