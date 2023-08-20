@@ -22,4 +22,9 @@ export class Score {
 
   @UpdateDateColumn()
   updated_at: Date;
+
+  constructor(score: number, name = '') {
+    this.score = score;
+    this.name = name;
+  }
 }
